@@ -13,13 +13,13 @@
 
             alumno02.SetNotaPrimerParcial(8);
             alumno02.SetNotaSegundoParcial(9);
-
             alumno03.SetNotaPrimerParcial(4);
             alumno03.SetNotaSegundoParcial(2);
 
             alumno01.Mostrar();
             alumno02.Mostrar();
             alumno03.Mostrar();
+            
         }
     }
 }
